@@ -8,6 +8,5 @@
 avikapoor16/avikapoor16 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-<img src="https://avatars.githubusercontent.com/u/85234265?v=4" alt width="256" height="256">
 
-<div class="register__StyledAvatar-sc-qx4h5k-0 exFNlm"><img src="https://avatars.githubusercontent.com/u/85234265?v=4" alt="" width="256" height="256"></div>
+
